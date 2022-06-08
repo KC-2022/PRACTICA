@@ -1,4 +1,4 @@
 def ing2s():
-    st1 = input("Ingrese el primer string: ")
-    st2 = input("Ingrese el segundo string: ")
-    return [st1, st2]
+    str1 = input("Ingrese el primer string: ")
+    str2 = input("Ingrese el segundo string: ")
+    return [str1, str2]
